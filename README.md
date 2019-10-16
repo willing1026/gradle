@@ -2,7 +2,7 @@
 spring boot gradle로 빌드하기 예제
 
 ### post
-[Gradle 빌드하기](https://paycis.tistory.com/3)
+[Springboot Gradle 빌드하기](https://paycis.tistory.com/3)
 
 ### Gradle
 - 빌드도구의 한 종류. 그 외 대표적인 빌드 도구로 maven이 있다.
